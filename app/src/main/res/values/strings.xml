@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hilt Application</string>
+
+    <!-- Menu Items-->
+    <string name="action_display">Show</string>
+    <string name="action_about">About</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="button_display_test">Show</string>
+
+
+    <string name="random_info_min_hint">Min Value</string>
+    <string name="random_info_max_hint">Max Value</string>
+
+
+    <!--Runtime messages-->
+    <string name="about_message">by Onurcan Köroğlu\ngithub.com/korogluOnurcan</string>
+    <string name="about_title">Sample Hilt Application</string>
+    <string name="about_positive_button">OK</string>
+</resources>
